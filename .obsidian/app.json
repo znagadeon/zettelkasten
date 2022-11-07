@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "foldIndent": false,
+  "foldHeading": false,
+  "tabSize": 2,
+  "useTab": false,
+  "showInlineTitle": false
+}
