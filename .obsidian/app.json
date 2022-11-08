@@ -6,5 +6,6 @@
   "foldHeading": false,
   "tabSize": 2,
   "useTab": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
