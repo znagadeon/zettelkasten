@@ -1,6 +1,5 @@
 ---
-aliases:
-  - useEvent 리액트 훅이란(또 무엇이 아닌지)
+publishName: what-the-useevent-react-hook-is-and-isnt
 url: https://velog.io/@eunbinn/what-the-useevent-react-hook-is-and-isnt
 ---
 

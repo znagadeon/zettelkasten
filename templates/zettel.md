@@ -1,7 +1,6 @@
 ---
-aliases:
-  - 한국어 제목
+publishName:
 url:
 ---
 
-# 제목
+# {{title}}
