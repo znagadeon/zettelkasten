@@ -7,5 +7,6 @@
   "tabSize": 2,
   "useTab": false,
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false
 }

@@ -7,11 +7,10 @@ url: https://brunch.co.kr/@tanagement/183
 
 ## OKR이란
 
-> Objective: 이전에 없었던 새로운 시장을 개척한다.
->
-> Key Result 1: 30~40대 신규 고객 2만명
-> Key Result 2: 신규 서비스 A 매출 20억
-> Key Result 3: 신규 서비스 A 고객만족도 4.8
+> - Objective: 이전에 없었던 새로운 시장을 개척한다.
+>   - Key Result 1: 30~40대 신규 고객 2만명
+>   - Key Result 2: 신규 서비스 A 매출 20억
+>   - Key Result 3: 신규 서비스 A 고객만족도 4.8
 
 - Objective + Key Results
 - Objective: 목표에 대한 **정성적인** 설명
@@ -53,11 +52,10 @@ url: https://brunch.co.kr/@tanagement/183
 
 ## 예시
 
-> Objective: 깜짝 놀랄 만한 웹사이트를 런칭한다
->
-> Key Result 1: 새로운 디자인 시안 3개를 만든다
-> Key Result 2: 웹사이트 개발자 2명을 채용한다
-> Key Result 3: 새로운 웹사이트를 2월까지 오픈한다
+> - Objective: 깜짝 놀랄 만한 웹사이트를 런칭한다
+>   - Key Result 1: 새로운 디자인 시안 3개를 만든다
+>   - Key Result 2: 웹사이트 개발자 2명을 채용한다
+>   - Key Result 3: 새로운 웹사이트를 2월까지 오픈한다
 
 ### 문제점
 
@@ -73,11 +71,9 @@ url: https://brunch.co.kr/@tanagement/183
 - Key Results를 기반으로 Objective의 모호성을 제거한다
   - 더 많은 구매 전환을 일으키는 높은 품질의 웹사이트
 
-> Objective: 더 많은 구매 전환을 일으키는 높은 품질의 웹사이트를 런칭한다
->
-> Key Result 1: 방문 지속시간 100% 상승
-> Key Result 2: 구매 전환율 30% 상승
->
-> Initiative 1: 새로운 디자인 시안 3개를 만든다
-> Initiative 2: 웹사이트 개발자 2명을 채용한다
-> Initiative 3: 새로운 웹사이트를 2월까지 오픈한다
+> - Objective: 더 많은 구매 전환을 일으키는 높은 품질의 웹사이트를 런칭한다
+>   - Key Result 1: 방문 지속시간 100% 상승
+>   - Key Result 2: 구매 전환율 30% 상승
+>   - Initiative 1: 새로운 디자인 시안 3개를 만든다
+>   - Initiative 2: 웹사이트 개발자 2명을 채용한다
+>   - Initiative 3: 새로운 웹사이트를 2월까지 오픈한다
