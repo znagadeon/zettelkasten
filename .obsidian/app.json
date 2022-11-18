@@ -8,5 +8,6 @@
   "useTab": false,
   "showInlineTitle": false,
   "promptDelete": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true
 }
