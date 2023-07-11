@@ -5,5 +5,5 @@
 :4,10s/foo/bar
 
 # 현재 커서 위치 기준으로 부모 중괄호 안의 foo를 bar로 교체
-:vi{s/foo/bar
+:vi{:s/foo/bar
 ```
